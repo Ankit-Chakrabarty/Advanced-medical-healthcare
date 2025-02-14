@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body{
+  @apply bg-sky-950
+}
+::-webkit-scrollbar {
+  @apply hidden
+}
