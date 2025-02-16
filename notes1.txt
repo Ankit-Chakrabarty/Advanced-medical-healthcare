@@ -25,3 +25,4 @@ npm install express mongoose multer bcrypt cloudinary cors dotenv jsonwebtoken n
 "server": "nodemon server.js"===>add packages.json
 npm run server-----st
 =======================================================================================================================
+git pull
